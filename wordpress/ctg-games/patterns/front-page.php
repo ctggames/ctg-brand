@@ -79,5 +79,5 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|accent-3"}}}},"textColor":"accent-4","fontSize":"small"} -->
-<p class="has-accent-4-color has-text-color has-link-color has-small-font-size">Source code for the open projects is at <a href="https://github.com/ctgnz">github.com/ctgnz</a>.</p>
+<p class="has-accent-4-color has-text-color has-link-color has-small-font-size">Source code for the open projects is at <a href="https://github.com/ctggames">github.com/ctggames</a>.</p>
 <!-- /wp:paragraph -->
