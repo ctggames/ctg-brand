@@ -106,7 +106,7 @@ redistributing this work has to reproduce that file.
 ## Adding it to a project
 
 ```sh
-git submodule add https://github.com/ctgnz/ctg-brand.git brand
+git submodule add https://github.com/ctggames/ctg-brand.git brand
 git commit -m "Add ctg-brand submodule"
 ```
 
